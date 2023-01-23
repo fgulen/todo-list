@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#list{
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(90deg, rgb(170, 5, 151) 0%, rgb(218, 148, 7) 100%);
+    min-height: 500px;
+    padding: 20px;
+}
+.div-container{
+    background-color: aliceblue;
+    opacity: 50%;
+    line-height: 30px;
+  
+}
